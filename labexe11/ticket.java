@@ -29,9 +29,6 @@ public class ticket {
         
         }
 
-    
-
-    
 }
 class ticketbooking extends Thread
 {
